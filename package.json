@@ -1,0 +1,22 @@
+{
+  "name": "rollup_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cupyong/rollup_study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cupyong/rollup_study/issues"
+  },
+  "homepage": "https://github.com/cupyong/rollup_study#readme",
+  "dependencies": {
+    "rollup": "^0.41.6"
+  }
+}
